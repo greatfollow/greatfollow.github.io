@@ -1,3 +1,3 @@
 # greatfollow.github.io
-Hello world
+Hello world\n
 mliu
